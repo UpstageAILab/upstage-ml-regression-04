@@ -87,11 +87,14 @@ Test
 
 ### 4-1 Model descrition
 
-- _Write model information and why your select this model_
+- Catboost
+- XGBoost
+- LGBM
 
 ### 4-2 Modeling Process
 
-- _Write model train and test process with capture_
+<img width="465" alt="스크린샷 2024-01-26 오전 1 17 49" src="https://github.com/UpstageAILab/upstage-ml-regression-04/assets/120548753/07a753ac-66f0-4578-b8a3-85164d5cd958">
+
 
 ## 5. Result
 

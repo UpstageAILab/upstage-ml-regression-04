@@ -117,5 +117,8 @@ Test
 - _Insert your meeting log link like Notion or Google Docs_
 
 ### Reference
-
-- _Insert related reference_
+- 실거래지수: KOSIS국가통계포털(https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S1)
+- 서울시 학교: 서울열린데이터광장(https://data.seoul.go.kr/dataList/OA-20502/S/1/datasetView.do)
+- 아파트 정보: K-apt 공동주택관리정보시스템(https://www.k-apt.go.kr/board/boardList.do?board_type=03)
+- 금리: 한국은행경제통계시스템(https://ecos.bok.or.kr/#/)
+- 가구총소득: 서울열린데이터광장(https://data.seoul.go.kr/dataList/DT201013B022/S/2/datasetView.do)

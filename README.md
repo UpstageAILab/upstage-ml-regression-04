@@ -96,9 +96,9 @@ Test
 ## 5. Result
 
 ### 5-1 Leader Board
-
-- _Insert Leader Board Capture_
-- _Write rank and score_
+![스크린샷 2024-01-26 011358](https://github.com/UpstageAILab/upstage-ml-regression-04/assets/42354230/c47f4684-662a-4873-80cb-f3c8c8b4ac0e)
+- Rank:9
+- Score:106512.0996
 
 ### 5-2 Presentation
 

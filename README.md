@@ -8,11 +8,16 @@
 |            [김영천](https://github.com/dudcjs2779)             |            [배창현](https://github.com/Bae-ChangHyun)             |            [조예람](https://github.com/huB-ram)             |            [박슬아](https://github.com/SeulaPark)             | 
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |  
 
-## 1. Competiton Info
+## 1. Competetition Info
 
 ### Overview
 
-- _Write competition information_
+The House Price Prediction Contest is a competition to develop a model that effectively predicts the actual price of an apartment in Seoul using given data. 
+
+Predicting real estate prices can help buyers and sellers buy and sell at the right price by predicting the market price, and from the government's point of view, it can also identify abnormal signals by checking abnormal market prices, or catch people who are engaging in fraudulent transactions such as upselling and downselling. 
+
+Our goal is to develop a model that predicts real estate prices to help people make various real estate-related decisions. In particular, we want to predict apartment prices in Seoul, which is the most important city.
+
 
 ### Timeline
 

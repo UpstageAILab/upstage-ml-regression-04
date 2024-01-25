@@ -8,26 +8,26 @@
 |            [김영천](https://github.com/dudcjs2779)             |            [배창현](https://github.com/Bae-ChangHyun)             |            [조예람](https://github.com/huB-ram)             |            [박슬아](https://github.com/SeulaPark)             | 
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |  
 
-## 1. Competetition Info
+## 1. Competetion Info
 
-### Overview
+### 1-1 Overview
 
-The House Price Prediction Contest is a competition to develop a model that effectively predicts the actual price of an apartment in Seoul using given data. 
+House Price Prediction 경진대회는 주어진 데이터를 활용하여 서울의 아파트 실거래가를 효과적으로 예측하는 모델을 개발하는 대회입니다. 
 
-Predicting real estate prices can help buyers and sellers buy and sell at the right price by predicting the market price, and from the government's point of view, it can also identify abnormal signals by checking abnormal market prices, or catch people who are engaging in fraudulent transactions such as upselling and downselling. 
+부동산 실거래가의 예측은 시세를 예측하여 적정한 가격에 구매와 판매를 도와주게 합니다. 그리고, 정부의 입장에서는 비정상적으로 시세가 이상한 부분을 체크하여 이상 신호를 파악하거나, 업거래 다운거래 등 부정한 거래를 하는 사람들을 잡아낼 수도 있습니다. 
 
-Our goal is to develop a model that predicts real estate prices to help people make various real estate-related decisions. In particular, we want to predict apartment prices in Seoul, which is the most important city.
+저희는 이러한 목적 하에서 다양한 부동산 관련 의사결정을 돕고자 하는 부동산 실거래가를 예측하는 모델을 개발하는 것입니다. 특히, 가장 중요한 서울시로 한정해서 서울시의 아파트 가격을 예측하려고합니다.
 
-
-### Timeline
+### 1-2 Timeline
 
 Jan 15, 2024 ~ Jan 25, 2024
 
-### Evaluation
+### 1-3 Evaluation
 
-- RMSE
+RMSE
 
-RMSE measures the average deviation between predicted and actual values. In the context of apartment sales, it measures how well a regression model captures the difference in actual transaction prices.
+해당 시점의 매매 실거래가를 예측하는 Regression 대회이며, 평가지표는 RMSE(Root Mean Squared Error)를 사용합니다.
+RMSE는 예측된 값과 실제 값 간의 평균편차를 측정합니다. 아파트 매매의 맥락에서는 회귀 모델이 실제 거래 가격의 차이를 얼마나 잘 잡아내는지 측정합니다. 
 
 ## 2. Components
 
@@ -37,36 +37,40 @@ RMSE measures the average deviation between predicted and actual values. In the 
 
 ## 3. Data descrption
 
-### Dataset overview
+### 3-1 Dataset overview
 
-- _Explain using data_
+Train
+: 2007년 1월 1일부터 2023년 6월 30일 사이의 예측해야 할 거래금액(target)을 포함한, 52개의 아파트의 정보에 대한 변수와 거래시점에 대한 변수 총 1,118,822개
 
-### EDA
+Test
+: 학습 데이터기간 이후 3개월인 2023년 7월 1일부터 2023년 9월 26일까지의 정보로 구성되어 총 9272개
+
+### 3-2 EDA
 
 - _Describe your EDA process and step-by-step conclusion_
 
-### Feature engineering
+### 3-3 Feature engineering
 
 - _Describe feature engineering process_
 
 ## 4. Modeling
 
-### Model descrition
+### 4-1 Model descrition
 
 - _Write model information and why your select this model_
 
-### Modeling Process
+### 4-2 Modeling Process
 
 - _Write model train and test process with capture_
 
 ## 5. Result
 
-### Leader Board
+### 5-1 Leader Board
 
 - _Insert Leader Board Capture_
 - _Write rank and score_
 
-### Presentation
+### 5-2 Presentation
 
 - _Insert your presentaion file(pdf) link_
 
